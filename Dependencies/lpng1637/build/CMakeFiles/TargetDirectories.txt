@@ -1,0 +1,14 @@
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/build/CMakeFiles/png-fix-itxt.dir
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/build/CMakeFiles/pngtest.dir
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/build/CMakeFiles/genfiles.dir
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/build/CMakeFiles/png.dir
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/build/CMakeFiles/png_static.dir
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/build/CMakeFiles/pngvalid.dir
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/build/CMakeFiles/pngunknown.dir
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/build/CMakeFiles/pngstest.dir
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/build/CMakeFiles/pngimage.dir
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/build/CMakeFiles/pngfix.dir
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/build/CMakeFiles/INSTALL.dir
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/build/CMakeFiles/ZERO_CHECK.dir

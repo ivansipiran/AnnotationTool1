@@ -1,0 +1,33 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeASMInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/MSVC-ASM.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/SelectLibraryConfigurations.cmake
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/CMakeLists.txt
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/build/CMakeFiles/3.17.2/CMakeASMCompiler.cmake
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/build/CMakeFiles/3.17.2/CMakeCCompiler.cmake
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/build/CMakeFiles/3.17.2/CMakeRCCompiler.cmake
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/build/CMakeFiles/3.17.2/CMakeSystem.cmake
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/scripts/genchk.cmake.in
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/scripts/genout.cmake.in
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/scripts/gensrc.cmake.in
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/scripts/pnglibconf.h.prebuilt
+C:/Users/Admin/Documents/Software/lpng1637/lpng1637/scripts/test.cmake.in
